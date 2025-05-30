@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeanf\\OneDrive\\Documentos\\VS Code\\C#\\AzureServices\\AzureProject\\PetShop-MVC.csproj": {}
+    "C:\\Users\\jeanf\\OneDrive\\Documentos\\VS Code\\C#\\PetShop-Azure\\PetShop-MVC\\PetShop-MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeanf\\OneDrive\\Documentos\\VS Code\\C#\\AzureServices\\AzureProject\\PetShop-MVC.csproj": {
+    "C:\\Users\\jeanf\\OneDrive\\Documentos\\VS Code\\C#\\PetShop-Azure\\PetShop-MVC\\PetShop-MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeanf\\OneDrive\\Documentos\\VS Code\\C#\\AzureServices\\AzureProject\\PetShop-MVC.csproj",
+        "projectUniqueName": "C:\\Users\\jeanf\\OneDrive\\Documentos\\VS Code\\C#\\PetShop-Azure\\PetShop-MVC\\PetShop-MVC.csproj",
         "projectName": "PetShop-MVC",
-        "projectPath": "C:\\Users\\jeanf\\OneDrive\\Documentos\\VS Code\\C#\\AzureServices\\AzureProject\\PetShop-MVC.csproj",
+        "projectPath": "C:\\Users\\jeanf\\OneDrive\\Documentos\\VS Code\\C#\\PetShop-Azure\\PetShop-MVC\\PetShop-MVC.csproj",
         "packagesPath": "C:\\Users\\jeanf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeanf\\OneDrive\\Documentos\\VS Code\\C#\\AzureServices\\AzureProject\\obj\\",
+        "outputPath": "C:\\Users\\jeanf\\OneDrive\\Documentos\\VS Code\\C#\\PetShop-Azure\\PetShop-MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

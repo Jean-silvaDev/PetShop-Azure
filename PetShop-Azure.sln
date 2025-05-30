@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36121.58
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetShop-MVC", "AzureProject\PetShop-MVC.csproj", "{2A5AF32F-BF6E-4BDA-9281-9E375763BB09}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetShop-MVC", "PetShop-MVC\PetShop-MVC.csproj", "{2A5AF32F-BF6E-4BDA-9281-9E375763BB09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetShop-AzureFunctions", "FunctionApp\PetShop-AzureFunctions.csproj", "{03430E23-C5B2-441E-B382-A7E814A0B915}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetShop-FunctionsAzure", "PetShop-FunctionsAzure\PetShop-FunctionsAzure.csproj", "{03430E23-C5B2-441E-B382-A7E814A0B915}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
