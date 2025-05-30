@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "AzureProject\\PetShop-MVC.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FunctionApp\\PetShop-AzureFunctions.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
